@@ -5,3 +5,5 @@ requests
 scipy
 faster-whisper
 piper-tts
+sentence-transformers
+pytest
